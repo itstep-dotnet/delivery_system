@@ -8,5 +8,9 @@ namespace DeliverySystem.UI_Controllers
 {
     class MenuController
     {
+        public void DisplayMenu()
+        {
+            Console.WriteLine("Здесь будет меню ....");
+        }
     }
 }
